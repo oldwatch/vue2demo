@@ -1,0 +1,9 @@
+[
+  {"key":"id","label":"名称"},
+  {"key":"description","label":"描述"},
+  {"key":"appID","label":"AppID"},
+  {"key":"wechatNo","label":"微信号"},
+  {"key":"appSecret","label":"appSecret"},
+  {"key":"relationTickets","label":"关联凭据","formatter":"showTickets"},
+  {"key":"enable","label":"启用","formatter":"showEnable","sortable": true }
+]
